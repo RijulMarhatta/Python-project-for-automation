@@ -1,2 +1,2 @@
 # Python-project-for-automation
-Code for multiclipboard saving values 
+Code for multiclipboard saving values 💻
