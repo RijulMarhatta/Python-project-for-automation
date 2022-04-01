@@ -1,3 +1,11 @@
+#First off, we need to install the necessary packages and dependencies to setup our project. Here’s what we need to install –
+
+
+#SeleniumBase framework
+#Chromedriver (can be installed using SeleniumBase)
+
+
+
 For automation in selenium
 From Seleniumbase import Basecase
 Class Home Test(Basecase):
