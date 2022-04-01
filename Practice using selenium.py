@@ -1,8 +1,8 @@
 #First off, we need to install the necessary packages and dependencies to setup our project. Here’s what we need to install –
 #use cmd as terminal if venv is not showing
 
-#SeleniumBase framework
-#Chromedriver (can be installed using SeleniumBase)
+#SeleniumBase framework - command is : pip install selenium
+#Chromedriver (can be installed using SeleniumBase) - command is : sbase install chromedriver
 
 
 
